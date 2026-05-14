@@ -23,8 +23,14 @@ No installation is required.
 
 1. Open PowerShell in the project root:
    - `c:\Projects\Gushwork-Assignment`
-2. Run:
+2. Run this command to start:
    - `start index.html`
+
+Quick start command:
+
+```powershell
+start index.html
+```
 
 You can also open `index.html` directly in any modern browser.
 
